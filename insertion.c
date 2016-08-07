@@ -11,4 +11,5 @@ int main()
   }
 
    for (c = 1 ; c <= n - 1; c++) {
+   	 d = c;
  
