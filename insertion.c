@@ -22,5 +22,7 @@ int main()
  	 }
 
  	}
- 	
+
+
+ 	 printf("Sorted list in ascending order:\n");
  
