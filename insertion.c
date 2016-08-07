@@ -9,5 +9,6 @@ int main()
 	 for (c = 0; c < n; c++) {
 	 	 scanf("%d", &array[c]);
   }
-  
+
+   for (c = 1 ; c <= n - 1; c++) {
  
