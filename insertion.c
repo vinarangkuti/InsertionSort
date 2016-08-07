@@ -25,4 +25,5 @@ int main()
 
 
  	 printf("Sorted list in ascending order:\n");
+ 	  for (c = 0; c <= n - 1; c++) {
  
