@@ -17,6 +17,7 @@ int main()
  	    t          = array[d];
  	     array[d]   = array[d-1];
  	      array[d-1] = t;
- 	      
+
  	 d--;
+ 	 }
  
