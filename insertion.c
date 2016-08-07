@@ -16,4 +16,5 @@ int main()
  while ( d > 0 && array[d] < array[d-1]) {
  	    t          = array[d];
  	     array[d]   = array[d-1];
+ 	      array[d-1] = t;
  
